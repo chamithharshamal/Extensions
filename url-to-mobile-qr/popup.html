@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>URL to Mobile</h1>
+      <p>Scan to open this page</p>
+    </header>
+    <div id="qrcode"></div>
+    <div class="url-display" id="url-display">Fetching URL...</div>
+    <footer>
+      <button id="copy-btn">Copy URL</button>
+    </footer>
+  </div>
+  <script src="lib/qrcode.min.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>
