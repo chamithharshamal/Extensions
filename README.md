@@ -9,6 +9,11 @@ Instantly generate a QR code for the current tab's URL to open it on your mobile
 - **Features**: Instant QR, Clipboard Copy, Premium UI.
 - **Tech**: JavaScript, HTML5 Canvas, CSS Grid.
 
+### 2. [Quick-Sticky Notes](file:///f:/Projects/Extensions/quick-sticky-notes)
+A premium, distraction-free writing space for your browser.
+- **Features**: Real-time Auto-save, UI Status indicators, SVG Iconography, Minimalist Design.
+- **Tech**: Chrome Storage API, CSS Transitions, SVG.
+
 ---
 
 ## How to Install Any Extension
@@ -16,7 +21,7 @@ Instantly generate a QR code for the current tab's URL to open it on your mobile
 2. Navigate to `chrome://extensions/`.
 3. Enable **Developer mode** (top right).
 4. Click **Load unpacked**.
-5. Select the folder of the extension you want to install (e.g., `url-to-mobile-qr`).
+5. Select the folder of the extension you want to install.
 
 ---
-*Created with ❤️ by Antigravity*
+*Created with ❤️ by Chamith*
